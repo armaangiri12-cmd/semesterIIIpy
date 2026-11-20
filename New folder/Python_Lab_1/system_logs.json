@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-01-15 09:00:00",
+    "level": "INFO",
+    "message": "Application started"
+  },
+  {
+    "timestamp": "2026-01-15 09:02:14",
+    "level": "WARNING",
+    "message": "Disk space is getting low"
+  },
+  {
+    "timestamp": "2026-01-15 09:05:30",
+    "level": "ERROR",
+    "message": "Could not connect to the sample service"
+  },
+  {
+    "timestamp": "2026-01-15 09:10:00",
+    "level": "INFO",
+    "message": "Retry completed"
+  }
+]
